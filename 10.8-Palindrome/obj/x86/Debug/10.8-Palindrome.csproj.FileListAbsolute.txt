@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\10.8-Palindrome\bin\Debug\10.8-Palindrome.exe
+C:\Users\Crille\CSharp\10.8-Palindrome\bin\Debug\10.8-Palindrome.pdb
+C:\Users\Crille\CSharp\10.8-Palindrome\obj\x86\Debug\10.8-Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\10.8-Palindrome\obj\x86\Debug\10.8-Palindrome.exe
+C:\Users\Crille\CSharp\10.8-Palindrome\obj\x86\Debug\10.8-Palindrome.pdb

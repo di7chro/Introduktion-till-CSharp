@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\2.1-DataTypes\obj\x86\Debug\2.1-DataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\2.1-DataTypes\bin\Debug\2.1-DataTypes.exe
+C:\Users\Crille\CSharp\2.1-DataTypes\bin\Debug\2.1-DataTypes.pdb
+C:\Users\Crille\CSharp\2.1-DataTypes\obj\x86\Debug\2.1-DataTypes.exe
+C:\Users\Crille\CSharp\2.1-DataTypes\obj\x86\Debug\2.1-DataTypes.pdb

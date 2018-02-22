@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\9.2-Scope\bin\Debug\9.2-Scope.exe
+C:\Users\Crille\CSharp\9.2-Scope\bin\Debug\9.2-Scope.pdb
+C:\Users\Crille\CSharp\9.2-Scope\obj\x86\Debug\9.2-Scope.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\9.2-Scope\obj\x86\Debug\9.2-Scope.exe
+C:\Users\Crille\CSharp\9.2-Scope\obj\x86\Debug\9.2-Scope.pdb

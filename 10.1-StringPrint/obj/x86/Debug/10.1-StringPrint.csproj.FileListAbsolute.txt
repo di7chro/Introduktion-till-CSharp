@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\10.1-StringPrint\bin\Debug\10.1-StringPrint.exe
+C:\Users\Crille\CSharp\10.1-StringPrint\bin\Debug\10.1-StringPrint.pdb
+C:\Users\Crille\CSharp\10.1-StringPrint\obj\x86\Debug\10.1-StringPrint.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\10.1-StringPrint\obj\x86\Debug\10.1-StringPrint.exe
+C:\Users\Crille\CSharp\10.1-StringPrint\obj\x86\Debug\10.1-StringPrint.pdb

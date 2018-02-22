@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\3.4-TypKonverteringar\bin\Debug\3.4-TypKonverteringar.exe
+C:\Users\Crille\CSharp\3.4-TypKonverteringar\bin\Debug\3.4-TypKonverteringar.pdb
+C:\Users\Crille\CSharp\3.4-TypKonverteringar\obj\x86\Debug\3.4-TypKonverteringar.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\3.4-TypKonverteringar\obj\x86\Debug\3.4-TypKonverteringar.exe
+C:\Users\Crille\CSharp\3.4-TypKonverteringar\obj\x86\Debug\3.4-TypKonverteringar.pdb

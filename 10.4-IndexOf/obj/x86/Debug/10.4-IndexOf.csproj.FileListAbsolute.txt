@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\10.4-IndexOf\bin\Debug\10.4-IndexOf.exe
+C:\Users\Crille\CSharp\10.4-IndexOf\bin\Debug\10.4-IndexOf.pdb
+C:\Users\Crille\CSharp\10.4-IndexOf\obj\x86\Debug\10.4-IndexOf.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\10.4-IndexOf\obj\x86\Debug\10.4-IndexOf.exe
+C:\Users\Crille\CSharp\10.4-IndexOf\obj\x86\Debug\10.4-IndexOf.pdb

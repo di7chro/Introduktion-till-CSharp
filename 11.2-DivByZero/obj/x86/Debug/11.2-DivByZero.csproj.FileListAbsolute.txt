@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\11.2-DivByZero\bin\Debug\11.2-DivByZero.exe
+C:\Users\Crille\CSharp\11.2-DivByZero\bin\Debug\11.2-DivByZero.pdb
+C:\Users\Crille\CSharp\11.2-DivByZero\obj\x86\Debug\11.2-DivByZero.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\11.2-DivByZero\obj\x86\Debug\11.2-DivByZero.exe
+C:\Users\Crille\CSharp\11.2-DivByZero\obj\x86\Debug\11.2-DivByZero.pdb

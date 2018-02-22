@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\1.2-HelloWorld\bin\Debug\1.2-HelloWorld.exe
+C:\Users\Crille\CSharp\1.2-HelloWorld\bin\Debug\1.2-HelloWorld.pdb
+C:\Users\Crille\CSharp\1.2-HelloWorld\obj\x86\Debug\1.2-HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\1.2-HelloWorld\obj\x86\Debug\1.2-HelloWorld.exe
+C:\Users\Crille\CSharp\1.2-HelloWorld\obj\x86\Debug\1.2-HelloWorld.pdb

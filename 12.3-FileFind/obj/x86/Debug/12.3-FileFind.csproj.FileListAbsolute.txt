@@ -1,0 +1,4 @@
+C:\Users\Crille\CSharp\12.3-FileFind\bin\Debug\12.3-FileFind.exe
+C:\Users\Crille\CSharp\12.3-FileFind\bin\Debug\12.3-FileFind.pdb
+C:\Users\Crille\CSharp\12.3-FileFind\obj\x86\Debug\12.3-FileFind.exe
+C:\Users\Crille\CSharp\12.3-FileFind\obj\x86\Debug\12.3-FileFind.pdb

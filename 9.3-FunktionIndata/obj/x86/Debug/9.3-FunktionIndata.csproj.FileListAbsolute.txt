@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\9.3-FunktionIndata\bin\Debug\9.3-FunktionIndata.exe
+C:\Users\Crille\CSharp\9.3-FunktionIndata\bin\Debug\9.3-FunktionIndata.pdb
+C:\Users\Crille\CSharp\9.3-FunktionIndata\obj\x86\Debug\9.3-FunktionIndata.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\9.3-FunktionIndata\obj\x86\Debug\9.3-FunktionIndata.exe
+C:\Users\Crille\CSharp\9.3-FunktionIndata\obj\x86\Debug\9.3-FunktionIndata.pdb

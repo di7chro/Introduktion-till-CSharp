@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\10.2-StringEscape\bin\Debug\10.2-StringEscape.exe
+C:\Users\Crille\CSharp\10.2-StringEscape\bin\Debug\10.2-StringEscape.pdb
+C:\Users\Crille\CSharp\10.2-StringEscape\obj\x86\Debug\10.2-StringEscape.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\10.2-StringEscape\obj\x86\Debug\10.2-StringEscape.exe
+C:\Users\Crille\CSharp\10.2-StringEscape\obj\x86\Debug\10.2-StringEscape.pdb

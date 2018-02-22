@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\3.2-Comparison\bin\Debug\3.2-Comparison.exe
+C:\Users\Crille\CSharp\3.2-Comparison\bin\Debug\3.2-Comparison.pdb
+C:\Users\Crille\CSharp\3.2-Comparison\obj\x86\Debug\3.2-Comparison.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\3.2-Comparison\obj\x86\Debug\3.2-Comparison.exe
+C:\Users\Crille\CSharp\3.2-Comparison\obj\x86\Debug\3.2-Comparison.pdb

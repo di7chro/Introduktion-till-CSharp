@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\9.6-BubbleSort\bin\Debug\9.6-BubbleSort.exe
+C:\Users\Crille\CSharp\9.6-BubbleSort\bin\Debug\9.6-BubbleSort.pdb
+C:\Users\Crille\CSharp\9.6-BubbleSort\obj\x86\Debug\9.6-BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\9.6-BubbleSort\obj\x86\Debug\9.6-BubbleSort.exe
+C:\Users\Crille\CSharp\9.6-BubbleSort\obj\x86\Debug\9.6-BubbleSort.pdb

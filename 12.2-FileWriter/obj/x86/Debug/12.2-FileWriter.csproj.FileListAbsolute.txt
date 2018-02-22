@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\12.2-FileWriter\bin\Debug\12.2-FileWriter.exe
+C:\Users\Crille\CSharp\12.2-FileWriter\bin\Debug\12.2-FileWriter.pdb
+C:\Users\Crille\CSharp\12.2-FileWriter\obj\x86\Debug\12.2-FileWriter.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\12.2-FileWriter\obj\x86\Debug\12.2-FileWriter.exe
+C:\Users\Crille\CSharp\12.2-FileWriter\obj\x86\Debug\12.2-FileWriter.pdb

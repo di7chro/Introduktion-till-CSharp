@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\9.1-Enkel_Funktion\bin\Debug\9.1-Enkel_Funktion.exe
+C:\Users\Crille\CSharp\9.1-Enkel_Funktion\bin\Debug\9.1-Enkel_Funktion.pdb
+C:\Users\Crille\CSharp\9.1-Enkel_Funktion\obj\x86\Debug\9.1-Enkel_Funktion.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\9.1-Enkel_Funktion\obj\x86\Debug\9.1-Enkel_Funktion.exe
+C:\Users\Crille\CSharp\9.1-Enkel_Funktion\obj\x86\Debug\9.1-Enkel_Funktion.pdb

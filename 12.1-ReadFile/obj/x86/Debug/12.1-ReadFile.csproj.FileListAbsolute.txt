@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\12.1-ReadFile\bin\Debug\12.1-ReadFile.exe
+C:\Users\Crille\CSharp\12.1-ReadFile\bin\Debug\12.1-ReadFile.pdb
+C:\Users\Crille\CSharp\12.1-ReadFile\obj\x86\Debug\12.1-ReadFile.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\12.1-ReadFile\obj\x86\Debug\12.1-ReadFile.exe
+C:\Users\Crille\CSharp\12.1-ReadFile\obj\x86\Debug\12.1-ReadFile.pdb

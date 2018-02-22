@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\10.3-UpperLowerCase\bin\Debug\10.3-UpperLowerCase.exe
+C:\Users\Crille\CSharp\10.3-UpperLowerCase\bin\Debug\10.3-UpperLowerCase.pdb
+C:\Users\Crille\CSharp\10.3-UpperLowerCase\obj\x86\Debug\10.3-UpperLowerCase.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\10.3-UpperLowerCase\obj\x86\Debug\10.3-UpperLowerCase.exe
+C:\Users\Crille\CSharp\10.3-UpperLowerCase\obj\x86\Debug\10.3-UpperLowerCase.pdb

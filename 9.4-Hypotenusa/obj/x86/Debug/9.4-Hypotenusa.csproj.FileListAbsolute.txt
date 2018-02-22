@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\9.4-Hypotenusa\bin\Debug\9.4-Hypotenusa.exe
+C:\Users\Crille\CSharp\9.4-Hypotenusa\bin\Debug\9.4-Hypotenusa.pdb
+C:\Users\Crille\CSharp\9.4-Hypotenusa\obj\x86\Debug\9.4-Hypotenusa.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\9.4-Hypotenusa\obj\x86\Debug\9.4-Hypotenusa.exe
+C:\Users\Crille\CSharp\9.4-Hypotenusa\obj\x86\Debug\9.4-Hypotenusa.pdb

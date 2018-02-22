@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\13.2-Superklass\bin\Debug\13.2-Superklass.exe
+C:\Users\Crille\CSharp\13.2-Superklass\bin\Debug\13.2-Superklass.pdb
+C:\Users\Crille\CSharp\13.2-Superklass\obj\x86\Debug\13.2-Superklass.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\13.2-Superklass\obj\x86\Debug\13.2-Superklass.exe
+C:\Users\Crille\CSharp\13.2-Superklass\obj\x86\Debug\13.2-Superklass.pdb

@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="13.1-Enkel_OOP.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Enkel_OOP.cs">
+    <Files>
+      <File FileName="Enkel_OOP.cs" Line="14" Column="3" />
+      <File FileName="Hund.cs" Line="4" Column="33" />
+      <File FileName="Kanin.cs" Line="14" Column="33" />
+      <File FileName="Katt.cs" Line="5" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

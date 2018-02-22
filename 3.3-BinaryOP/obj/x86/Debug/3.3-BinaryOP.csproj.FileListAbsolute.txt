@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\3.3-BinaryOP\bin\Debug\3.3-BinaryOP.exe
+C:\Users\Crille\CSharp\3.3-BinaryOP\bin\Debug\3.3-BinaryOP.pdb
+C:\Users\Crille\CSharp\3.3-BinaryOP\obj\x86\Debug\3.3-BinaryOP.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\3.3-BinaryOP\obj\x86\Debug\3.3-BinaryOP.exe
+C:\Users\Crille\CSharp\3.3-BinaryOP\obj\x86\Debug\3.3-BinaryOP.pdb

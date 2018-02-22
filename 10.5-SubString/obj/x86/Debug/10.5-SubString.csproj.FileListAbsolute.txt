@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\10.5-SubString\bin\Debug\10.5-SubString.exe
+C:\Users\Crille\CSharp\10.5-SubString\bin\Debug\10.5-SubString.pdb
+C:\Users\Crille\CSharp\10.5-SubString\obj\x86\Debug\10.5-SubString.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\10.5-SubString\obj\x86\Debug\10.5-SubString.exe
+C:\Users\Crille\CSharp\10.5-SubString\obj\x86\Debug\10.5-SubString.pdb

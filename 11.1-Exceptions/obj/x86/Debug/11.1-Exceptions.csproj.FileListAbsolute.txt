@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\11.1-Exceptions\bin\Debug\11.1-Exceptions.exe
+C:\Users\Crille\CSharp\11.1-Exceptions\bin\Debug\11.1-Exceptions.pdb
+C:\Users\Crille\CSharp\11.1-Exceptions\obj\x86\Debug\11.1-Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\11.1-Exceptions\obj\x86\Debug\11.1-Exceptions.exe
+C:\Users\Crille\CSharp\11.1-Exceptions\obj\x86\Debug\11.1-Exceptions.pdb

@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\10.7-StringReverse\bin\Debug\10.7-StringReverse.exe
+C:\Users\Crille\CSharp\10.7-StringReverse\bin\Debug\10.7-StringReverse.pdb
+C:\Users\Crille\CSharp\10.7-StringReverse\obj\x86\Debug\10.7-StringReverse.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\10.7-StringReverse\obj\x86\Debug\10.7-StringReverse.exe
+C:\Users\Crille\CSharp\10.7-StringReverse\obj\x86\Debug\10.7-StringReverse.pdb

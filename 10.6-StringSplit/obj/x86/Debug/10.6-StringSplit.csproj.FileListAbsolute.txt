@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\10.6-StringSplit\obj\x86\Debug\10.6-StringSplit.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\10.6-StringSplit\bin\Debug\10.6-StringSplit.exe
+C:\Users\Crille\CSharp\10.6-StringSplit\bin\Debug\10.6-StringSplit.pdb
+C:\Users\Crille\CSharp\10.6-StringSplit\obj\x86\Debug\10.6-StringSplit.exe
+C:\Users\Crille\CSharp\10.6-StringSplit\obj\x86\Debug\10.6-StringSplit.pdb

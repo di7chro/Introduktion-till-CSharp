@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\13.1-Enkel_OOP\bin\Debug\13.1-Enkel_OOP.exe
+C:\Users\Crille\CSharp\13.1-Enkel_OOP\bin\Debug\13.1-Enkel_OOP.pdb
+C:\Users\Crille\CSharp\13.1-Enkel_OOP\obj\x86\Debug\13.1-Enkel_OOP.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\13.1-Enkel_OOP\obj\x86\Debug\13.1-Enkel_OOP.exe
+C:\Users\Crille\CSharp\13.1-Enkel_OOP\obj\x86\Debug\13.1-Enkel_OOP.pdb

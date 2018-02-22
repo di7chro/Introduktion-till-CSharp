@@ -1,0 +1,5 @@
+C:\Users\Crille\CSharp\2.2-Strings\bin\Debug\2.2-Strings.exe
+C:\Users\Crille\CSharp\2.2-Strings\bin\Debug\2.2-Strings.pdb
+C:\Users\Crille\CSharp\2.2-Strings\obj\x86\Debug\2.2-Strings.csprojResolveAssemblyReference.cache
+C:\Users\Crille\CSharp\2.2-Strings\obj\x86\Debug\2.2-Strings.exe
+C:\Users\Crille\CSharp\2.2-Strings\obj\x86\Debug\2.2-Strings.pdb
